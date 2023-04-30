@@ -5,7 +5,7 @@
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=sappiah085&column=8&theme=gruvbox&no-frame=false"/>
 
 - 🤔 Ready to extend helping to whoever needs it. Opened for innvoative ideas in the field of technology 😏.....
-- 📱 You can keep in touch with me on these: sappiah5689@gmail.com or by phone as +233 (0) 555- 610 - 882 , and on instagram as @sa_kansah.
+- 📱 You can keep in touch with me on these: sappiah5689@gmail.com and on instagram as @sa_kansah.
 - 😄The Real Don 🤑
 
 - Connect via LinkedIn: <a href = "https://www.linkedin.com/in/appiah-samuel-a8b50b228/" target = "_blank">LinkedIn</a>
