@@ -8,7 +8,7 @@
 - 📱 You can keep in touch with me on these: sappiah5689@gmail.com and on instagram as @sa_kansah.
 - 😄The Real Don 🤑
 
-- Connect via LinkedIn: <a href = "https://www.linkedin.com/in/appiah-samuel-a8b50b228/" target = "_blank">LinkedIn</a>
+- Connect via LinkedIn: <a href = "https://www.linkedin.com/in/samuel-appiah-a8b50b228/" target = "_blank">LinkedIn</a>
 <h3 align="left"> ✅ What I do best:</h3>
 
 <p align="left">
