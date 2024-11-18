@@ -1,10 +1,10 @@
-### 👋 Hiiii RealMann H3R3!
+### 👋 RealMann HERE!
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sappiah085&label=Profile%20views&color=e91e63&style=flat" alt="realmann" /> </p>
 <h2>🏆My Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=sappiah085&column=8&theme=gruvbox&no-frame=false"/>
 
-- 🤔 Ready to extend helping to whoever needs it. Opened for innvoative ideas in the field of technology 😏.....
+- 🤔 Ready to extend helping hand to whoever needs it. Opened for innovative ideas in the field of technology 😏.....
 - 📱 You can keep in touch with me on these: sappiah5689@gmail.com and on instagram as @sa_kansah.
 - 😄The Real Don 🤑
 
