@@ -20,7 +20,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" >&nbsp;&nbsp; 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="30" >&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" >&nbsp;&nbsp; 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/python-original.svg" alt="javascript" width="30" >&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" > 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="mysql" width="30" >&nbsp;&nbsp;
@@ -33,7 +32,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sappiah085&theme=github_dark)
 [![RealMann's stats](https://github-readme-stats.vercel.app/api?username=sappiah085&show_icons=true&theme=github_dark)](https://github.com/sappiah085)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sappiah085&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/sappiah085)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sappiah085&theme=dracula)
 
 <!-- éxplore Showcase -->
 
