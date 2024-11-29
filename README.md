@@ -70,6 +70,17 @@ Hi there! I'm **Realmann**, a passionate **Software Engineer** from **Debrecen**
 
 ---
 
+
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+</div>
+
+---
+
 ## 🐾 Fun Section  
 
 *"Live in the moment and make every seconds count."*  
