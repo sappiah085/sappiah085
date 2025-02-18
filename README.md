@@ -39,7 +39,7 @@ Hi there! I'm **Realmann**, a passionate **Software Engineer** from **Debrecen**
 ## 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-appiah-a8b50b228/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=web&logoColor=white)](https://realmannthought.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=for-the-badge&logo=web&logoColor=white)](https://new-blog-real.vercel.app/)
 
 ---
 
